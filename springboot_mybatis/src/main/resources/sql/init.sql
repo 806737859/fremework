@@ -1,0 +1,1 @@
+create table t_user(id int(32) auto_increment PRIMARY KEY, name varchar(50) not null, birthday datetime NOT NULL);
